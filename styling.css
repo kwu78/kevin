@@ -1,0 +1,128 @@
+.top-container{
+	background-color:#d4f3ef;
+	position: relative;
+	padding-top: 100px;
+	
+}
+
+body{
+	margin: 0;
+	text-align: center;
+	font-family: vernada,sans-serif;
+	color:#40514E;
+}
+h1{
+	width: 30%;
+	margin-top: 50px;
+	margin: 0 auto 0 auto;
+	font-family: 'Indie Flower', cursive;
+	font-size: 500%;
+	line-height: 2;
+}
+.bottom_cloud{
+	position: absolute;
+	left:300px;
+	bottom 300px;
+}
+.top-cloud{
+	position:absolute;
+	right:300px;
+	top:50px;
+}
+.skillsets{
+	width:15%;
+	height: 15%;
+}
+hr{
+	border-style: dotted none none;
+	height:0px;
+	border-width:5px;
+	border-color:grey;
+	width:5%;
+}
+h2{
+	font-size: 2.3rem;
+	font-family: 'Playfair Display SC', serif;
+	padding: 20px;
+	color:#63b7af;
+}
+h3{
+	color:#4cd3c2;
+}
+.skillsets1{
+	float:left;
+	margin-left: 300px;
+	margin-right:20px;
+	width:13%;
+	height: 13%;
+	margin-bottom: 200px;
+}
+.skillsets2{
+	float:right;
+	width:13%;
+	height: 13%;
+	margin-left:10px;
+	margin-bottom: 20px;
+	margin-right:300px;
+
+}
+.skill-row{
+	line-height: 2;
+	text-align: left;
+	margin:100px auto 100px auto;
+}
+.descriptions2{
+	margin-right: 400px;
+}
+.descriptions3{
+	margin-left:400px;
+}
+.descriptions1{
+	width:30%;
+	margin:auto;
+	margin-bottom: 50px;
+	line-height: 2;
+	font-size: 140%;
+	font-family: 'Piedra', cursive;
+
+}
+.contact-me{
+	width:40%;
+	margin:40px auto 60px;
+}
+.btn{
+
+	color: rgb(230, 249, 230);
+font-size: 20px;
+padding: 10px;
+text-shadow: 1px 1px 5px rgba(30, 30, 30, 0.8);
+-webkit-border-radius: 8px;
+-moz-border-radius: 8px;
+border-radius: 8px;
+background: rgb(8, 219, 199);
+background: -moz-linear-gradient(90deg, rgb(8, 219, 199) 100%, rgb(54, 208, 213) 100%);
+background: -webkit-linear-gradient(90deg, rgb(8, 219, 199) 100%, rgb(54, 208, 213) 100%);
+background: -o-linear-gradient(90deg, rgb(8, 219, 199) 100%, rgb(54, 208, 213) 100%);
+background: -ms-linear-gradient(90deg, rgb(8, 219, 199) 100%, rgb(54, 208, 213) 100%);
+background: linear-gradient(0deg, rgb(8, 219, 199) 100%, rgb(54, 208, 213) 100%);
+-webkit-box-shadow: 0px 2px 1px rgba(50, 50, 50, 0.75);
+-moz-box-shadow:    0px 2px 1px rgba(50, 50, 50, 0.75);
+box-shadow:         0px 2px 1px rgba(50, 50, 50, 0.75);
+
+}
+.bottom-container{
+	background-color: #abf0e9;
+	padding:20px 0 20px;
+}
+a{
+	color:#11999E;
+	margin:10px 20px;
+	text-decoration:none;
+}
+a:hover{
+	color:#EAF6F6;
+}
+.contact-p{
+	
+	margin:8% auto 10% auto;
+}
